@@ -1,0 +1,16 @@
+
+VAR
+
+	WalkRequest : {REDUND_UNREPLICABLE} BOOL := FALSE; (* tlacítko pro požadavek na prejití silnice *)
+	AutoWalkPeriod : {REDUND_UNREPLICABLE} TIME := T#60s; (* perioda pro automatické zapnutí prechodu *)
+	WalkingTime : {REDUND_UNREPLICABLE} TIME := T#10s; (* cas aktivní zelené pro prechod chodce  *)
+	Red4Car : {REDUND_UNREPLICABLE} BOOL; (* cervená na semaforu pro auta *)
+	Amber4Car : {REDUND_UNREPLICABLE} BOOL; (* žlutá na semaforu pro auta *)
+	Green4Car : {REDUND_UNREPLICABLE} BOOL; (* zelená na semaforu pro auta *)
+	Red4Walk : {REDUND_UNREPLICABLE} BOOL; (* cervená na semaforu pro chodce *)
+	Green4Walk : {REDUND_UNREPLICABLE} BOOL; (* zelená na semaforu pro chodce *)
+END_VAR
+
+VAR CONSTANT
+
+END_VAR

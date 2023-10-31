@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Library Version="5.12.2" SubType="Binary" Description="SafeMC functions and function blocks" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>SafeMC.fun</File>
+    <File>SafeMC.typ</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="Acp10man" FromVersion="5.12.2" ToVersion="5.12.2" />
+  </Dependencies>
+</Library>

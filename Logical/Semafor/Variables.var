@@ -1,0 +1,7 @@
+(**********************)
+
+
+VAR
+	WalkLight_Inst0 : WalkLight;
+	CarLight_Inst0 : CarLight;
+END_VAR

@@ -1,0 +1,5 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/SemaforLib/SemaforLib.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/standard/standard.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/SemaforLib/Types.typ
+$(AS_PROJECT_PATH)/Logical/Semafor/Variables.var
+$(AS_PROJECT_PATH)/Logical/Global.var

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.9.2.46"?>
+<LibraryInfos>
+  <Library
+    Name="Acp10man"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="5.12.2" />
+  <Library
+    Name="Acp10par"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="5.12.2" />
+  <Library
+    Name="AsIecCon"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="astime"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="brsystem"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="io_lib"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="LoopConR"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="4.10.2" />
+  <Library
+    Name="NcGlobal"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="5.12.2" />
+  <Library
+    Name="operator"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="runtime"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="SafeMC"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="5.12.2" />
+  <Library
+    Name="SemaforLib"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="standard"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="sys_lib"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+</LibraryInfos>

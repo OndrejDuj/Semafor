@@ -1,0 +1,21 @@
+Tue Oct 31 12:24:14 2023
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Oct 31 12:24:14 2023
+No ARsim registration found!
+
+Tue Oct 31 12:24:14 2023
+InstanceName: 01da0becc74d72e0
+
+Tue Oct 31 12:24:14 2023
+WorkingDirectory: C:\projects\Semafor\Temp\Simulation\Config1\X20CP3585\
+
+Tue Oct 31 12:24:14 2023
+COMMAND_COLDSTART
+
+Tue Oct 31 12:24:16 2023
+Version: C4.90
+
+Tue Oct 31 12:35:10 2023
+COMMAND_TERMINATE
+

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\visu\visu.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib\carlight.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\semaforlib\carlight.st" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib\carlight.st.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib\semaforlib.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib\semaforlib.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\visu.br">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20cp3585\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp3585\semaforlib.br" differs.
+</BuildReason>
+  </Rule>
+</BuildReasons>
